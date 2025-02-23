@@ -1,2 +1,2 @@
-# hello-world
-The repository is for practicing the GitHub Flow
+# Welcome to Blikett!
+To start playing Blikett, go to the 'index.html' page.
